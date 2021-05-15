@@ -1,8 +1,9 @@
 ### Hi there 👋
-
+<a href="https://profile.codersrank.io/user/bankole2000" target="_blank">
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bankole2000&skills=JavaScript,TypeScript&show-other-skills=true"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bankole2000&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:5px"
 />
+</a>
 
 <!--
 **Bankole2000/Bankole2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
