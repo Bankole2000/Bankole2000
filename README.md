@@ -1,11 +1,15 @@
-### Hi there 👋
 <a href="https://profile.codersrank.io/user/bankole2000" target="_blank">
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bankole2000&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:5px"
 />
-  
 </a>
 
+## Work and Experience 💼
+- **[Nodens Inc.](https://nodensinc.com)** - Senior Associate (_August 2021 - present_)
+  - Building and maintaining [NodTransfer](https://nodtransfer.com)
+  - Building and maintaining [Nodens Inc website](https://nodensinc.com) among a slew of other company products
+- **[Primal Aero LTD](https://primalaero.com)** - Full stack Engineer (_July 2020 - July 2021_)
+  -  
 ## Technologies and Tools 🚀
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
