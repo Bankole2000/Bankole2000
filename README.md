@@ -4,17 +4,6 @@
 />
 </a>
 
-## Work and Experience 💼
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=bankole2000&max-items=4&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px;--item-padding:10px;--grid-columns:2"
-/>
-
-- **[Nodens Inc.](https://nodensinc.com)** - Senior Associate (_August 2021 - present_)
-  - Building and maintaining [NodTransfer](https://nodtransfer.com) among other company products.
-  - Built [Nodens Inc](https://nodensinc.com).
-- **[Primal Aero LTD](https://primalaero.com)** - Full stack Engineer (_July 2020 - July 2021_)
-  - Built and maintained [PrimalAero](https://primalaero.com)
-
 ## Technologies and Tools 🚀
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
@@ -34,6 +23,31 @@
 ![](https://img.shields.io/badge/Platform-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 
+
+## Work and Experience 💼
+<!-- <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=bankole2000&max-items=4&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px;--item-padding:10px;--grid-columns:2"
+/> -->
+
+- **[Nodens Inc.](https://nodensinc.com)** - Senior Associate (_August 2021 - present_)
+  - Building and maintaining [NodTransfer](https://nodtransfer.com).
+  - Built [Nodens Inc](https://nodensinc.com).
+  - Currently working on multiple company products.
+- **[TalentQL](https://talentql.com)** - Member, Cohort 1, Backend Track (_September 2021 - present_)
+<!--   - Built and maintained [PrimalAero](https://primalaero.com)
+  - Built and maintained the Primal Aero Flight Booking system module
+  - Built and maintained the Primal Aero Flight Scheduling API -->
+- **[Primal Aero LTD](https://primalaero.com)** - Full stack Engineer (_July 2020 - July 2021_)
+  - Built and maintained [PrimalAero](https://primalaero.com)
+  - Built and maintained the Primal Aero Flight Booking system module
+  - Built and maintained the Primal Aero Flight Scheduling API
+- **[Personal Projects](https://banky.studio/#/projects)** - (_January 2019 - Present_)
+
+## Currently Studying 📖
+- Docker & Kubernetes
+- Flutter
+
+## Learning Curve 📈
 <a href="https://profile.codersrank.io/bankole2000" target="_blank">
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bankole2000&skills=JavaScript,Vue,TypeScript,HTML,CSS,PHP,Python,C&show-other-skills=true"
